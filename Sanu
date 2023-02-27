@@ -1,3 +1,5 @@
+All types of Locators
+
 driver.findElementBy.id
 driver.findElementBy.name
 driver.findElementBy.class
@@ -5,4 +7,4 @@ driver.findElementBy.tagname
 driver.findElementBy.linktext
 driver.findElementBy.partiallinktext
 driver.findElementBy.css
-driver.findElementBy.id
+driver.findElementBy.xpath
